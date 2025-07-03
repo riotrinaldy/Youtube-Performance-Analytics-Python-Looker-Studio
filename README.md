@@ -43,6 +43,5 @@ The dashboard provides a holistic overview of **364 YouTube videos**, with a com
 
 ## 🛠️ Tools Used
 
-- **Google BigQuery** – Data aggregation and KPI calculation  
+- **Python (Google Colab)** – Data Transform and EDA  
 - **Looker Studio** – Dashboard creation and visualization  
-- **SQL** – Metric transformation and filtering logic  
